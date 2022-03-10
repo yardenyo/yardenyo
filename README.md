@@ -31,8 +31,8 @@ I am a Full Stack Developer from Israel. <img src="https://media.giphy.com/media
 - :exclamation: Independent and initiative with "can do" attitude.
 - :cloud: Excellent interpersonal and analytical skills.
 - :key: A problem solver with a data-driven and creative approach to challenges.
+- - :100: Creative, motivated, self-learning and team player.
 - :zap: In my free time, i try my best to study from Udemy courses and building my own projects.
-- :100: Creative, motivated, self-learning and team player.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yarden%20Yosef-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yarden-yosef-b019b2210/)
 
 ---
